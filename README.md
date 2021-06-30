@@ -1,4 +1,4 @@
-**React-Flux**
+**React | Flux | Machine Learning**
 
 ---
 
